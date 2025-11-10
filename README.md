@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm SHIVAM KUMAR</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
+- 🌱 I’m currently learning **DSA**
+
+- 💬 Ask me about **Frontend and Backend Development**
+
+- 📫 How to reach me **namkeenshivam156@gmail.com**
+
+- ⚡ Fun fact **“My code works... until someone watches me run it 👀.”**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-5a2659294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namkeenshivam156@gmail.com) 
 
