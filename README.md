@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Frontend and Backend Development**
 
-- 📫 reach me **namkeenshivam156@gmail.com**
+- 📫 reach me **shivamgzp612005@gmail.com**
 
 - ⚡ Fun fact **“My code works... until someone watches me run it 👀.”**
 
